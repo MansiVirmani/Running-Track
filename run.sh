@@ -1,4 +1,4 @@
-echo 'It is running'
+echo 'I is running'
 echo 'test'
 echo 'testing commits'
 echo 'testing'
